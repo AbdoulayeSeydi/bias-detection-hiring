@@ -1,6 +1,6 @@
 # ML Bias Detection in Hiring: Education Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/bias-detection-hiring/blob/main/bias_detection_hiring.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdoulayeSeydi/bias-detection-hiring/blob/main/bias_detection_hiring.ipynb)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/status-complete-success.svg)
